@@ -1,0 +1,11 @@
+C:\Users\Sergey\source\repos\LabDiffIvlev1\bin\Debug\LabDiffIvlev1.exe.config
+C:\Users\Sergey\source\repos\LabDiffIvlev1\bin\Debug\LabDiffIvlev1.exe
+C:\Users\Sergey\source\repos\LabDiffIvlev1\bin\Debug\LabDiffIvlev1.pdb
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.Form1.resources
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.Properties.Resources.resources
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.exe
+C:\Users\Sergey\source\repos\LabDiffIvlev1\obj\Debug\LabDiffIvlev1.pdb
